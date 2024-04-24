@@ -100,5 +100,5 @@ set laststatus=2
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-let g:user42 = 'annabrag'
-let g:mail42 = 'annabrag@student.42.fr'
+let g:user42 = 'user42'
+let g:mail42 = 'user42@student.42.fr'
